@@ -1,0 +1,11 @@
+C:\Users\pba\repos\other\Weather.Models\bin\Debug\net8.0\Weather.Models.deps.json
+C:\Users\pba\repos\other\Weather.Models\bin\Debug\net8.0\Weather.Models.dll
+C:\Users\pba\repos\other\Weather.Models\bin\Debug\net8.0\Weather.Models.pdb
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\Weather.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\Weather.Models.AssemblyInfoInputs.cache
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\Weather.Models.AssemblyInfo.cs
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\Weather.Models.csproj.CoreCompileInputs.cache
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\Weather.Models.dll
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\refint\Weather.Models.dll
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\Weather.Models.pdb
+C:\Users\pba\repos\other\Weather.Models\obj\Debug\net8.0\ref\Weather.Models.dll

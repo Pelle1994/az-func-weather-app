@@ -1,0 +1,17 @@
+C:\Users\pba\repos\other\Weather.Data\bin\Release\net8.0\Weather.Data.deps.json
+C:\Users\pba\repos\other\Weather.Data\bin\Release\net8.0\Weather.Data.runtimeconfig.json
+C:\Users\pba\repos\other\Weather.Data\bin\Release\net8.0\Weather.Data.dll
+C:\Users\pba\repos\other\Weather.Data\bin\Release\net8.0\Weather.Data.pdb
+C:\Users\pba\repos\other\Weather.Data\bin\Release\net8.0\Weather.Models.dll
+C:\Users\pba\repos\other\Weather.Data\bin\Release\net8.0\Weather.Models.pdb
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.csproj.AssemblyReference.cache
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.AssemblyInfoInputs.cache
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.AssemblyInfo.cs
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.csproj.CoreCompileInputs.cache
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather..2CFFD6E6.Up2Date
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.dll
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\refint\Weather.Data.dll
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.pdb
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\Weather.Data.genruntimeconfig.cache
+C:\Users\pba\repos\other\Weather.Data\obj\Release\net8.0\ref\Weather.Data.dll
