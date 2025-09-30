@@ -3,7 +3,7 @@
 
 Task was to fetch weather data for Turku, Finland from an external API, and then exposing an API where this data could be retrieved, given a timestamp. 
 
-The fetching is done through https://api.open-meteo.com, with config values for Turku coordinates. It's done in WeatherPoller, a timer triggered function doing the fetch once every hour. The data is stored in an Azure SQL database. 
+The fetching is done through https://api.open-meteo.com, with config values for Turku coordinates. It's done in WeatherPoller, a timer triggered function doing the fetch once every hour. The data is stored in an Azure SQL database. Note: the data received from this external API is pretty wonky, so there's some weird parsing going on in WeatherService.cs
 
 To make a GET request, you need to provide a "timestamp" query variable. Example request:
 https://weatherfunctions333.azurewebsites.net/api/temperature?timestamp=2025-08-27T17:00:00Z&code=[Ping me if you want the key to test this function]
